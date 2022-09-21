@@ -1,4 +1,170 @@
-body{
-    background-color: pink;
+body {
+    background-color: black;
+    background-image: url("https://web.archive.org/web/20091019212842/http://www.geocities.com/varun2391/red_light_background.gif");
+    color: yellow;
+    font-family: Arial;
+    max-width: 50rem;
+    margin: 0 auto;
+    font-family: 'IM Fell English SC', serif;
+    font-size: x-large;
+  }
+  h1,p{
+    text-align: center;
+  }
+  .welcome{
+    width: 13rem;
+    height: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("https://web.archive.org/web/20090829024335/http://www.geocities.com/orange_slickerthenureverage/welcomelight.gif");
+  }
+  .lightline1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.lastlinelight{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+  .light1{
+    position: relative;
+  }
+  .light2{
+position: relative;
+left: 40rem;
+}
 
+
+.bluelight{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+  .introduction{
+    background-color: blue;
+  }
+  .box{
+    margin: 0 auto;
+    background-color: black;
+    border: 15px solid blue;
+    border-radius: 25px;
+    width: 38rem;
+    height: 36.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  .box2{
+    background-color: black;
+background-image: url("https://web.archive.org/web/20090830164715/http://geocities.com/aladdin_fans/GenieFlyAni.gif");
+   position: fixed;
+   left: 5rem;
+   top: 13rem;
+    width: 7.5rem;
+    height: 14.3rem;
+  }
+
+  video{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+.aa{
+    width: 6rem;
+    height: 6rem;
+    background-color: black;
+    position: absolute;
+    left: 31.3rem;
+    top: 23rem;
+    background-image: url("https://web.archive.org/web/20091027063409/http://geocities.com/lawfel/lamp.gif");
+}
+.bb{
+    width: 10rem;
+    height: 8rem;
+    background-color: white;
+    position: absolute;
+    left: 42.3rem;
+    top: 22rem;
+    background-image: url("https://web.archive.org/web/20060223225049/http://www.geocities.com:80/senor_groovy/lavalamp.gif");
+}
+.cc{
+    width: 8rem;
+    height: 9rem;
+    background-color: black;
+    position: absolute;
+    left: 56.3rem;
+    top: 22rem;
+    background-image: url("https://web.archive.org/web/20090821133743/http://geocities.com/Heartland/Fields/8202/banners/lamp.gif");
+}
+.dd{
+    width: 6rem;
+    height: 10rem;
+    background-color: white;
+    position: absolute;
+    left: 57.3rem;
+    top: 33rem;
+    background-image: url("https://web.archive.org/web/20090902163249/http://geocities.com/fantasylessons/movers/redlamp.gif");
+}
+.ee{
+    width: 6rem;
+    height: 10rem;
+    background-color: white;
+    position: absolute;
+    left: 44.3rem;
+    top: 33rem;
+    background-image:url("https://web.archive.org/web/20090821140908/http://geocities.com/Heartland/Oaks/8494/oillamp2.gif");
+}
+.ff{
+    width: 8rem;
+    height: 9rem;
+    background-color: black;
+    position: absolute;
+    left: 30.3rem;
+    top: 33.5rem;
+    background-image: url("https://web.archive.org/web/20090831074206/http://geocities.com/chickymonkey82/lavalamp.gif");
+}
+.gg{
+    width: 5rem;
+    height: 11rem;
+    background-color: white;
+    position: absolute;
+    left: 31.8rem;
+    top: 44rem;
+    background-image: url("https://web.archive.org/web/20090821195051/http://geocities.com/ResearchTriangle/Lab/4199/Fire/lantern_onBk-ani.gif");
+}
+.hh{
+    width: 6.5rem;
+    height: 5rem;
+    background-color: black;
+    position: absolute;
+    left: 44rem;
+    top: 47.5rem;
+    background-image: url("https://web.archive.org/web/20091026222211/http://www.geocities.com/elainemarieslittlelantern/al_lamp_med_clr1.gif");
+}
+.ii{
+    width: 6rem;
+    height: 8.3rem;
+    background-color: black;
+    position: absolute;
+    left: 57.3rem;
+    top: 46rem;
+    background-image: url("https://web.archive.org/web/20090829032635/http://geocities.com/phoda2000/a_lantern.gif");
+}
+.box3{
+    background-color: black;
+   position: absolute;
+   left: 5rem;
+   top: 13rem;
+    width: 7.5rem;
+    height: 15rem;
+}
+
+.footer22{
+    color: white;
 }
